@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zupsmp.aternos.me",
+    "ip": "blackfish.aternos.host:45742",
     "port": 45742,
     "version": "",
     "try-creative": false
